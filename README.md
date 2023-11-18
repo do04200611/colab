@@ -13,7 +13,7 @@
  |6|<a href="https://colab.research.google.com/drive/1Se6G9t56TANvhoAIz4NC5USaqNXOdeJ5"><img src="https://img.shields.io/badge/googlecolab-1572B6?style=for-the-badge&logo=googlecolab&logoColor=orange"   alt="colab">|3月|Hello Depp Learning!을 출력하는 코드입니다.|
  |7|<a href="https://colab.research.google.com/drive/1SF7K3hkQNzeVJqpC3HXqV4wCcW96pw6P"><img src="https://img.shields.io/badge/googlecolab-1572B6?style=for-the-badge&logo=googlecolab&logoColor=orange"   alt="colab">|3月|선형 회귀를 배우면서 실습 코드입니다.|
  |8|<a href="https://colab.research.google.com/drive/1LMtTFH2b81vwKfgKiDfhbksQfUfBdzc4"><img src="https://img.shields.io/badge/googlecolab-1572B6?style=for-the-badge&logo=googlecolab&logoColor=orange"   alt="colab">|5月| 최소 제곱을 배우면서 실습한 코드입니다.|
- |9|<a href="https://colab.research.google.com/drive/10QAlPm5WNZ_UP8Kq8Xui11zIpzqaFVkE"><img src="https://img.shields.io/badge/googlecolab-1572B6?style=for-the-badge&logo=googlecolab&logoColor=orange"   alt="colab">|5月|숫자를 출력하는 코드입니다.|
+ |9|<a href="https://colab.research.google.com/drive/17pqJ_4nzGLQ1Ts5qXcxV5HYwR2fKo1xi"><img src="https://img.shields.io/badge/googlecolab-1572B6?style=for-the-badge&logo=googlecolab&logoColor=orange"   alt="colab">|4月|.|
  |10|<a href="https://www.youtube.com/watch?v=vdfIM9Lhlps"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"   alt="YouTube">|9月|텔레그램으로 led와 피에조 부조 작동시키기|
  |11|<a href="https://www.youtube.com/watch?v=szraAEoabFY"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"   alt="YouTube">|11月|텔레그램에 온습도 데이터(불쾌 지수 띄우기|
  |12|<a href="https://www.youtube.com/watch?v=o7kvIzdei80"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"   alt="YouTube">|11月|텔레그램 메시지 보내기|
