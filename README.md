@@ -2,7 +2,7 @@
 ## Language used in the repository📚
 ![colab](https://img.shields.io/badge/googlecolab-1572B6?style=for-the-badge&logo=googlecolab&logoColor=orange)
 
-## 실습 페이
+## 실습 페이지
 |  | プロジェクト名     | 期間          | 説明                 |
 |------------------------|------------------------|---------------|--------------------|
  |1|<a href="https://colab.research.google.com/drive/15-YJgeKIPPaLoWhLi8JPXq9ZpUlpSTZE"><img src="https://img.shields.io/badge/googlecolab-1572B6?style=for-the-badge&logo=googlecolab&logoColor=orange"   alt="colab">|3月|딥러닝 하면서 배운 실습 코드입니다.|
